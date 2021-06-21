@@ -1,4 +1,4 @@
-q   # yandex_praktikum
+# yandex_praktikum
 # Учебные проекты по курсу Аналитик данных.
 <a href= "https://github.com/JuDi104/yandex_praktikum/tree/main/Стат.анализ" target="blank" rel="noreferrer"> Определение лучшего тарифа</a>
 
